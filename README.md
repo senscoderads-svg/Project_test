@@ -1,6 +1,6 @@
 # Consulta de Saldo na Binance Smart Chain (BSC)
 
-Este projeto é um script simples em Python que utiliza a biblioteca Web3 para consultar o saldo de uma carteira específica na rede Binance Smart Chain (BSC). Ele verifica o saldo de BNB nativo e do token USDT (Tether) em uma carteira pré-configurada.
+Este projeto é um script simples em Python que utiliza a biblioteca Web3 para monitora saldo de uma carteira específica na rede Binance Smart Chain (BSC). Ele verifica o saldo de BNB nativo e do token USDT (Tether) em uma carteira pré-configurada.
 
 ## Funcionalidades
 
@@ -12,7 +12,7 @@ Este projeto é um script simples em Python que utiliza a biblioteca Web3 para c
 
 ## Pré-requisitos
 
-- Python 3.6 ou superior instalado.
+- Python 3.11.0 ou superior instalado.
 - Conexão com a internet para acessar a rede BSC.
 
 ## Instalação
@@ -33,7 +33,7 @@ Execute o script principal com o comando:
 python main.py
 ```
 
-O script irá conectar à BSC, consultar os saldos e exibir as informações no terminal.
+O script irá conectar à BSC, consultar os saldos e mostrar as informações no terminal.
 
 ## Dependências
 
